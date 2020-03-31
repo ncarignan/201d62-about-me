@@ -3,7 +3,7 @@
 // Ice cream questions
 // yes no question
 // do you like it
-var likesIceCream = confirm('Do you like ice cream?'); // true or false
+var likesIceCream = confirm('Do you like ice cream???'); // true or false
 console.log('Likes ice cream : ' + likesIceCream);
 // if they like it continue through the rest of the app
 
